@@ -1,0 +1,39 @@
+
+
+
+.pro{
+
+    background-color: whitesmoke;
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+
+.b1{
+    width: 100px;
+    border-radius: 16px;
+    background-color: green;
+    color: white;
+    border-color: yellowgreen;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 700;
+
+}
+.b2{
+    width: 100px;
+    border-radius: 16px;
+    background-color: blue;
+    border-color: aliceblue;
+    color: white;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 700;
+
+}

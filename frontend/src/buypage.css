@@ -1,0 +1,82 @@
+.address{
+    margin-left: 100px;
+}
+.box{
+    width: 600px;
+    height: 680px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+label{
+    font-size: 18px;
+    font-weight: 700;
+}
+.savedaddress{
+    display: none;
+    width: 200px;
+    height: 200px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    flex-direction: column;
+}
+.savedbox{
+    margin-left: 20px;
+}
+.payment{
+    margin-top: 30px;
+    display: none;
+    width: 600px;
+    height: 400px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    flex-direction: column;
+
+}
+.inscard{
+    margin-top: 10px;
+}
+.expd{
+    margin-top: 20px;
+}
+.expy{
+    margin-top: -53px;
+    margin-left: 120px;
+}
+.insyear{
+    margin-left: 116px;
+    margin-top: 9px;
+}
+.payb{
+    margin-top: 50px;
+
+}
+.success{
+    margin-left: 800px;
+    width: 400px;
+    height: 320px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin-top: -620px;
+    display: flex;
+    display: none;
+   
+}
+.simg{
+    margin-left: 150px;
+    margin-top: 40px;
+   
+
+}
+.sword{
+    margin-top: 190px;
+    margin-left: -243px;
+}
+.blurred{
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+.acc{
+    margin-top: 20px;
+}

@@ -1,0 +1,42 @@
+.product-info-container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .image-gallery .image-gallery-thumbnail {
+    cursor: pointer;
+    border-radius: 8px;
+    transition: border-color 0.2s;
+  }
+  .image-gallery-thumbnail:hover {
+    border-color: #1a73e8;
+  }
+  
+  .product-title {
+    color: #333;
+  }
+  
+  .discount-banner {
+    background: #ffeded;
+    color: #ff0000;
+    border-radius: 4px;
+  }
+  
+  .product-specs-table {
+    border-spacing: 0;
+    width: 100%;
+  }
+  
+  .add-to-cart-btn {
+    background: linear-gradient(135deg, #ff9900, #ff6600);
+  }
+  
+  .comment-card {
+    background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
+  }
+  
+  .no-comments {
+    color: #888;
+    font-style: italic;
+  }
+  

@@ -1,0 +1,36 @@
+.loginlogo{
+    margin-left: 850px;
+}
+.boxx2{
+    margin-top: 25px;
+    margin-left: -55px;
+  
+    
+    
+}
+.ii1{
+    margin-left: 35px;
+    margin-top: -15px;
+}
+.ii2{
+    margin-top: -15px;
+    margin-left: 35px;
+
+}
+.butt{
+    margin-top: 40px;
+    margin-left: 35px;
+}
+.comment{
+    margin-top: 20px;
+}
+.butt3{
+   
+    margin-left: 35px;
+}
+@media (max-width:1580px){
+    .loginlogo{
+        margin-left: 560px;
+    }
+
+}

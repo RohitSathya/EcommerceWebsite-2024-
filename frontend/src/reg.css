@@ -1,0 +1,74 @@
+.logo{
+    margin-left: 850px;
+}
+.boxx{
+    margin-top: 25px;
+    margin-left: -55px;
+  
+    
+    
+}
+.mn2{
+    margin-top: -13px;
+}
+.in{
+    display: flex;
+    flex-direction: column;
+}
+.i1{
+    margin-left: 20px;
+}
+.i2{
+    margin-left: 20px;
+
+}
+.i3{
+    margin-left: 20px;
+
+}
+.i4{
+    margin-left: 20px;
+
+}
+.but{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.co{
+    margin-top: 10px;
+}
+.sp3{
+  margin-left: 20px;
+  margin-top: 50px;
+}
+.sp4{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.sp5{
+    margin-top: 22px;
+    margin-left: 30px;
+}
+
+@media (max-width:1580px){
+    .logo{
+        margin-left: 580px;
+        margin-top: -30px;
+    }
+    .but{
+        margin-top: 5px;                  
+        margin-left: 20px;
+    }
+   .sp2{
+     padding-left: 10px;
+     padding-top: 2px;
+   }
+   .sp3{
+      font-size: 15px;
+   }
+   .sp4{
+    font-size: 15px;
+ }
+   
+   
+}
